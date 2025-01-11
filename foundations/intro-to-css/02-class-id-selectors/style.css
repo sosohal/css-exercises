@@ -1,0 +1,19 @@
+.redBlock {
+    background-color: #ffc0cb;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.largeText {
+    font-size: 24px;
+}
+
+#blueLarge {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#greenBlock{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
